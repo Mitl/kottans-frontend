@@ -19,3 +19,6 @@ https://github.com/Mitl/kottans-frontend/blob/main/task_git_collaboration/gitCom
 https://github.com/Mitl/kottans-frontend/blob/main/task_git_collaboration/Screen%20Shot%202020-11-30%20at%202.30.45%20PM.png)
 ![Git completed_3](
 https://github.com/Mitl/kottans-frontend/blob/main/task_git_collaboration/Screen%20Shot%202020-11-30%20at%202.12.42%20PM.png)
+
+This module has brought some dificulties in completing. Some of the tasks on learn git branching where complex and not easy to finish.
+I've Learned a good lesson that will come in handy in every day work.
