@@ -11,3 +11,11 @@ Main things that I've learned
 https://github.com/Mitl/kottans-frontend/blob/main/task_linux_cli/linux_completed.gif?raw=true)
 
 Wow, just wow! Definitelly just learned a lot of new things for myself that will help me in my daily activities. One question to myself, why I didn't know this before? I will have a lot of cases to use the linux commands, not to forget and expand the knowledge I commit to use command line just to surf between my files.
+
+## Git Collaboration
+![Git completed](
+https://github.com/Mitl/kottans-frontend/blob/main/task_git_collaboration/gitComplete_part2.png?raw=true)
+![Git completed_2](
+https://github.com/Mitl/kottans-frontend/blob/main/task_git_collaboration/Screen%20Shot%202020-11-30%20at%202.30.45%20PM.png)
+![Git completed_3](
+https://github.com/Mitl/kottans-frontend/blob/main/task_git_collaboration/Screen%20Shot%202020-11-30%20at%202.12.42%20PM.png)
